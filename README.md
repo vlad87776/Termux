@@ -9,4 +9,4 @@
 
 ## Авторы
 vlad87776;
-Codex
+Codex.
