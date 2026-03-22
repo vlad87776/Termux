@@ -1,4 +1,4 @@
-# Libs для Termux (Android 15)
+# Libs для Termux (Android 15-Включая остальные!)
 
 Эта папка содержит быстрые команды для установки популярных инструментов и библиотек в **Termux**.
 
@@ -9,7 +9,7 @@
 ```bash
 pkg update -y && pkg upgrade -y
 pkg install -y x11-repo
-pkg install -y git curl wget unzip tar
+pkg install -y git curl wget unzip tar npm
 pkg install -y python python-pip clang cmake make pkg-config
 ```
 
